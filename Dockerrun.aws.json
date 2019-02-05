@@ -9,7 +9,7 @@
             "memory": 128
         },
         {
-            "name": "sever",
+            "name": "server",
             "image": "mzdanavicius2/multi-server",
             "hostname": "api",
             "essential": false,
